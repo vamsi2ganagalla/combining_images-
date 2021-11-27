@@ -8,4 +8,4 @@ cv2.imshow('hi',final)
 cv2.waitKey()
 cv2.destroyAllWindows()
 #for saving the combined image
-cv2.imwrite('gogeta.png',final)
+cv2.imwrite('any_name.png',final)
